@@ -10,4 +10,3 @@ console.log({nombre,hpPoints,isAlive}
     
 )
 
-export{}
